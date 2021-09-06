@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 박채은 이력서
 
-You can use the [editor on GitHub](https://github.com/imshinethanku/imshinethanku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요, 박채은입니다.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
