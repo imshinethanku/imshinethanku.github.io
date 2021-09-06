@@ -2,16 +2,12 @@
 
 안녕하세요, 박채은입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 학력
 
-### Markdown
+이화여자대학교 디자인학부 재학
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
+# 
 ## Header 2
 ### Header 3
 
@@ -26,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored MarkdoCancel changeswn](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
