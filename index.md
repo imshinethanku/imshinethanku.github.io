@@ -1,33 +1,32 @@
-## 박채은 이력서
+# 박채은 이력서
 
-안녕하세요, 박채은입니다.
+![resume image](chaeeunparkresumeimage.PNG)
+Format: ![Alt Text](url)
 
-### 학력
+안녕하세요, **그래픽 디자이너** 박채은입니다.
 
-이화여자대학교 디자인학부 재학
+## 학력사항
 
+기간 | 내용
+------------ | -------------
+2018.03-2021.09 (재학)| 이화여자대학교 조형예술대학 디자인학부
+2015.03-2017.09 (졸업) | 부산국제고등학교
+2008.09-2012.02 (졸업) | International School of Moscow (ISM)
 
-# 
-## Header 2
-### Header 3
+## 경력사항 (총 2년 11개월)
 
-- Bulleted
-- List
+기간 | 내용
+------------ | -------------
+2021.06-2021.06 (외주 진행 완료)| (주)스프린트 / 무신사 'Super Supply' 제품 사진 편집 및 상세페이지 디자인
+2019.09-2021.03 (재직중) | (주)누가 / 'Moiming' 앱 UI UX 디자인
+2020.11-2020.12 (외주 진행 완료) | 성균관대학교 Business Practicum Convergence Capstone Design
 
-1. Numbered
-2. List
+## 수상&자격증
 
-**Bold** and _Italic_ and `Code` text
+* 2021 학생 창업유망팀 교육부장관 인증서 수여
+* OPIC AL 자격증 취득
+* 2020 성균관대 캠퍼스타운 피칭대회 _3등상 수상_
+* 2020 광운대 캠퍼스타운 창업경진대회 _우수상 수상_
+* 서울캠퍼스타운 유튜브 조회수 경쟁대회 _우수상 수상_
+* 이화여자대학교 스타트업 영상 공모전 _우수상 수상_
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored MarkdoCancel changeswn](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imshinethanku/imshinethanku.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
