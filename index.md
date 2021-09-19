@@ -1,7 +1,6 @@
 # 박채은 이력서
 
 ![resume image](chaeeunparkresumeimage.PNG)
-Format: ![Alt Text](url)
 
 안녕하세요, **그래픽 디자이너** 박채은입니다.
 
